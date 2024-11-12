@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+h1{
+    color: royalblue;
+}
+.deleteBtn {
+    background-color: #ff4d4d;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.AddBtn {
+    padding: 10px 15px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+input {
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
